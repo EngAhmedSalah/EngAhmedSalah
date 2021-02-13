@@ -15,6 +15,7 @@ Hi, I'm Ahmed Salah, a Full Stack Software Engineer and Cloud Developer 🚀 fro
 
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons & Programming Competitions as I can
 - 🌱 I’m currently learning GraphQL and DevOps
+- 👌 working on my open-source Budgi-Mail-Client:just make a pull request to contribute [Repo](https://github.com/EngAhmedSalah/Budgie-Birds-Mail-Client) 
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own Youtube Channel [ahmed salah](https://www.youtube.com/channel/UCM-3K0kJ5xs7KTKfDGz1LYQ) in 2020
 - 📫 How to reach me: ahmed.salahfci1164@gmail.com
